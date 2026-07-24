@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hi 👋, I'm Kaif Khurshid<br><br> Backend-Oriented Computer Science Student | Applied ML Enthusiast | System Design Learner<br><br>I am a pre-final year Computer Science student at XIM University passionate about building scalable backend systems, applied machine learning pipelines, and intelligent data-driven applications.<br><br>My work focuses on backend engineering, computer vision, and audio ML, combining strong fundamentals in Data Structures, Algorithms, and System Design with real-world projects.
+Hi 👋, I'm **Kaif Khurshid**
+**AI & Backend Developer | Final-Year Computer Science Student | Applied ML Enthusiast | System Design Learner**
+
+I am a final-year Computer Science student at XIM University passionate about designing scalable backend systems, building AI-powered applications, and developing intelligent, data-driven solutions.
+
+My expertise lies in backend development, artificial intelligence, machine learning, and system design. I enjoy building robust APIs, distributed systems, and AI applications while applying strong fundamentals in Data Structures & Algorithms, database design, and software engineering to solve real-world problems.
+
+I'm continuously exploring modern AI technologies, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents, and cloud-native backend architectures to build production-ready applications.
 
 
 ## 🌐 Socials:
